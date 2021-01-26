@@ -11,4 +11,12 @@
  <img src="Search_Engine.png">
  <br>
  Search Engine Page
+ <br>
+ <img src="Reservations.png">
+ <br>
+ Reservations Page
+ <br>
+ <img src="Flights.png">
+ Flights page
+ <br>
  
